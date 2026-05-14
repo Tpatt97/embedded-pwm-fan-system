@@ -47,16 +47,6 @@ Located in the `/cad` directory.
 
 ---
 
-## Future Improvements
-
-- RPM sensing
-- Current monitoring
-- Closed-loop PID control
-- ESP32 wireless telemetry
-- H-bridge directional control
-
----
-
 ## CAD Renders
 
 ![Fan Render 1](images/1.jpg)
@@ -66,3 +56,29 @@ Located in the `/cad` directory.
 ![Fan Render 3](images/3.jpg)
 
 ![Fan Render 4](images/4.jpg)
+
+---
+
+## Project Photos
+
+![Prototype 1](images/IMG_8795.JPG)
+
+![Prototype 2](images/IMG_8796.JPG)
+
+![Prototype 3](images/IMG_8807.JPG)
+
+![Prototype 4](images/IMG_8809.JPG)
+
+![Prototype 5](images/IMG_8810.JPG)
+
+![Prototype 6](images/IMG_8812.JPG)
+
+![Prototype 7](images/IMG_8814.JPG)
+
+## Future Improvements
+
+- RPM sensing
+- Current monitoring
+- Closed-loop PID control
+- ESP32 wireless telemetry
+- H-bridge directional control
