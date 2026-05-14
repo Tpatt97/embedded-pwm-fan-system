@@ -9,8 +9,8 @@ Arduino-based variable-speed fan system integrating embedded motor control, OLED
 - PWM-controlled 12V DC motor
 - Potentiometer throttle input
 - OLED telemetry display
-- Custom 5-blade fan design
-- 3D-printed motor mount
+- Custom 3D-printed 5-blade fan design
+- Custom 3D-printed motor mount
 - Transistor-based power switching
 - Embedded systems integration
 
@@ -27,7 +27,8 @@ Arduino-based variable-speed fan system integrating embedded motor control, OLED
 - 0.96" I2C OLED display
 - Flyback diode
 - Custom 3D-printed fan assembly
-
+- Custom 3D-printed motor mount
+  
 ---
 
 ## Mechanical Design
