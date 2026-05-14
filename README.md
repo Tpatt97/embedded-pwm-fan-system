@@ -45,3 +45,13 @@ A custom 5-blade fan was designed in Fusion 360 and mounted directly to the moto
 - H-bridge directional control
 
 ---
+
+## CAD Renders
+
+![Fan Render 1](images/1.jpg)
+
+![Fan Render 2](images/2.jpg)
+
+![Fan Render 3](images/3.jpg)
+
+![Fan Render 4](images/4.jpg)
