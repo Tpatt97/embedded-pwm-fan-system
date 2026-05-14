@@ -61,6 +61,8 @@ Located in the `/cad` directory.
 
 ## Project Photos
 
+### Prototype Assembly
+
 ![Prototype 1](images/IMG_8795.JPG)
 
 ![Prototype 2](images/IMG_8796.JPG)
@@ -69,11 +71,8 @@ Located in the `/cad` directory.
 
 ![Prototype 4](images/IMG_8809.JPG)
 
-![Prototype 5](images/IMG_8810.JPG)
+![Prototype 5](images/IMG_8812.JPG)
 
-![Prototype 6](images/IMG_8812.JPG)
-
-![Prototype 7](images/IMG_8814.JPG)
 
 ## Future Improvements
 
