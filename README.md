@@ -32,7 +32,17 @@ Arduino-based variable-speed fan system integrating embedded motor control, OLED
 
 ## Mechanical Design
 
-A custom 5-blade fan was designed in Fusion 360 and mounted directly to the motor shaft to create a functional variable-speed airflow system.
+A custom DC motor mount was designed in Fusion 360 to securely house the 12V DC geared motor during operation. Additionally, a custom 5-blade fan assembly was designed and mounted directly to the motor shaft to create a functional variable-speed airflow system.
+
+---
+
+## CAD Files
+
+The repository includes STL files for:
+- Custom 3D-printed 5-blade fan
+- Custom 3D-printed motor mount
+
+Located in the `/cad` directory.
 
 ---
 
