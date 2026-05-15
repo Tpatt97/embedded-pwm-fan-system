@@ -16,7 +16,7 @@ Variable-speed fan operation using PWM motor control and OLED telemetry display.
 
 Breadboard wiring configuration for PWM motor control, OLED telemetry, and transistor-based power switching.
 
-![Wiring Diagram](images/DC Motor Wiring Diagram_bb.png)
+![Wiring Diagram](images/dc_motor_wiring_diagram.png)
 
 ---
 
