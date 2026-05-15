@@ -12,6 +12,14 @@ Variable-speed fan operation using PWM motor control and OLED telemetry display.
 
 ---
 
+## Wiring Diagram
+
+Breadboard wiring configuration for PWM motor control, OLED telemetry, and transistor-based power switching.
+
+![Wiring Diagram](images/DC Motor Wiring Diagram_bb.png)
+
+---
+
 ## Features
 
 - PWM-controlled 12V DC motor
