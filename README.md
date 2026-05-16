@@ -4,7 +4,7 @@ Arduino-based variable-speed fan system integrating embedded motor control, OLED
 
 ---
 
-## Demonstraion
+## Demonstration
 
 Variable-speed fan operation using PWM motor control and OLED telemetry display.
 
